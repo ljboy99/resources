@@ -1,4 +1,9 @@
 Title: Building Modern GUIs with Tkinter and Python: Building user-friendly GUI applications with ease
+Subject: Tkinter Library for Python
 Author(s): Saurabh Chandrakar, Nilesh Bhaskarrao Bahadure
-Publisher: BPB Publications, Year: 2023
 Current Progress: Page 52/366
+
+Title: Effective Pandas - Patterns for Data Manipulation
+Subject: Pandas library for Python
+Author: Matt Harrison
+Current Progress: Page 45/391
