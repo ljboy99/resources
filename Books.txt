@@ -1,0 +1,4 @@
+Title: Building Modern GUIs with Tkinter and Python: Building user-friendly GUI applications with ease
+Author(s): Saurabh Chandrakar, Nilesh Bhaskarrao Bahadure
+Publisher: BPB Publications, Year: 2023
+Current Progress: Page 52/366
