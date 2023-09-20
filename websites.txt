@@ -5,6 +5,9 @@ https://www.freecodecamp.org/news
 Online IDE
 https://replit.com
 
+App Academy
+https://my.appacademy.io
+
 Python Challenges
 https://edabit.com/challenges/python3
 https://leetcode.com/
