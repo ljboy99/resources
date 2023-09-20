@@ -11,4 +11,4 @@ Current Progress: Page 45/391
 Title: Artificial Intelligence with Python Cookbook
 Subject: Tensorflow / AI
 Author: Ben Auffarth
-Current Progress: Page 40/459
+Current Progress: Page 47/459
