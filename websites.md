@@ -4,13 +4,15 @@
 
 [Online IDE](https://replit.com)
 
+[Generate randomized datasets](https://generatedata.com/)
+---------------------
+## LEARNING
+
 [App Academy](https://my.appacademy.io)
 
 [Edabit](https://edabit.com/challenges/python3)
 
 [Leetcode](https://leetcode.com/)
-
-[Generate randomized datasets](https://generatedata.com/)
 
 ---------------------
 ## PYTHON LIBRARIES
