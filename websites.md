@@ -1,24 +1,25 @@
-(Search from 10,300+ code tutorials at FreeCodeCamp)[https://www.freecodecamp.org/news]
 
-(Run your code online at Replit)[https://replit.com]
+[Search from 10,300+ code tutorials at FreeCodeCamp](https://www.freecodecamp.org/news)
 
-(App Academy)[https://my.appacademy.io]
+[Online IDE](https://replit.com)
 
-(Edabit)[https://edabit.com/challenges/python3]
+[App Academy](https://my.appacademy.io)
 
-(Leetcode)[https://leetcode.com/]
+[Edabit](https://edabit.com/challenges/python3)
 
-(Generate randomized datasets)[https://generatedata.com/]
+[Leetcode](https://leetcode.com/)
+
+[Generate randomized datasets](https://generatedata.com/)
 
 ---------------------
 ## PYTHON LIBRARIES
 
-(Find any kind of library you need at PyPI)[https://pypi.org]
+[Find any kind of library you need at PyPI](https://pypi.org)
 
-(Beautiful Soup - Scrape the web)[https://www.crummy.com/software/BeautifulSoup/bs4/doc/#going-up]
+[Beautiful Soup - Scrape the web](https://www.crummy.com/software/BeautifulSoup/bs4/doc/#going-up)
 
-(Cryptography)[https://cryptography.io/en/latest/]
+[Cryptography](https://cryptography.io/en/latest/)
 
-(plotly - Make graphs with python)[https://plotly.com/python/]
+[plotly - Make graphs with python](https://plotly.com/python/)
 
-(Tkinter - let's get gui)[https://tkdocs.com/]
+[Tkinter - let's get gui](https://tkdocs.com/)
