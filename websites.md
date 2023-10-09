@@ -15,6 +15,8 @@
 
 [Leetcode](https://leetcode.com/)
 
+[Free books on from InventWithPython](https://inventwithpython.com)
+
 
 ## PYTHON LIBRARIES
 
