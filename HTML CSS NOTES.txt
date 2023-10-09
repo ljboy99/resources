@@ -1,0 +1,9 @@
+Essentially most of the time you are creating a class
+in HTML and defining specifications in CSS for that element
+
+So each time you create one or say ' Class="name"'
+you need to go to the css and type ' .name{}'
+and define elements within that class.
+
+You also need to use link to make sure the
+css file is associated with that html.
