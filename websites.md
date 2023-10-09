@@ -6,7 +6,7 @@
 
 [Generate randomized datasets](https://generatedata.com/)
 
----------------------
+
 ## LEARNING
 
 [App Academy](https://my.appacademy.io)
@@ -15,7 +15,7 @@
 
 [Leetcode](https://leetcode.com/)
 
----------------------
+
 ## PYTHON LIBRARIES
 
 [Find any kind of library you need at PyPI](https://pypi.org)
