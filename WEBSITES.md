@@ -6,6 +6,7 @@
 
 [Generate randomized datasets](https://generatedata.com/)
 
+[Awesome CTF Tool / Resource List](https://c4pr1c3.github.io/awesome-ctf/)
 
 ## LEARNING
 
