@@ -13,7 +13,7 @@ Directly inspired by a [learning log that I saw by a user that goes by amitness]
 ### Other
 |Resource|Concept / Chapter|Example|Example|Example|
 |---|---|---|---|---|
-|Nightmare|Binary Exploitation / CTF||||
+|Nightmare|[Intro](https://guyinatuxedo.github.io/index.html)||||
 
 ### EXAMPLE IGNORE THIS
 |Resource|Concept / Chapter|Example|Example|Example|
