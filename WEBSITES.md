@@ -32,3 +32,5 @@
 [plotly - Make graphs with python](https://plotly.com/python/)
 
 [Tkinter - let's get gui](https://tkdocs.com/)
+
+[pwntools](https://docs.pwntools.com/en/stable/intro.html)
