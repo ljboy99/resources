@@ -10,6 +10,9 @@ Directly inspired by a [learning log that I saw by a user that goes by amitness]
 
 ### HTML AND CSS
 
+### Other
+|Nightmare|Binary Exploitation / CTF||||
+
 ### EXAMPLE IGNORE THIS
 |Resource|Concept / Chapter|Example|Example|Example|
 |---|---|---|---|---|
