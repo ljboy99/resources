@@ -34,3 +34,5 @@
 [Tkinter - let's get gui](https://tkdocs.com/)
 
 [pwntools](https://docs.pwntools.com/en/stable/intro.html)
+
+[Selenium](https://selenium-python.readthedocs.io)
