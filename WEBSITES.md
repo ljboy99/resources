@@ -18,6 +18,8 @@
 
 [Free books from InventWithPython](https://inventwithpython.com)
 
+[Free CompSCI classes from Khan Academy](https://www.khanacademy.org/computing)
+
 
 ## PYTHON LIBRARIES
 
