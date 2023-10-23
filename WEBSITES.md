@@ -35,7 +35,7 @@
 
 [pwntools](https://docs.pwntools.com/en/stable/intro.html)
 
+[Selenium](https://selenium-python.readthedocs.io)
+
 ## COOL STUFF
 [British National Cipher Past Challenges](https://github.com/themaddoctor/BritishNationalCipherChallenge/tree/master)
-
-[Selenium](https://selenium-python.readthedocs.io)
